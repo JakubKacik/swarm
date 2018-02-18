@@ -1,0 +1,11 @@
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\bin\Debug\netcoreapp2.0\Docker2.deps.json
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\bin\Debug\netcoreapp2.0\Docker2.runtimeconfig.json
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\bin\Debug\netcoreapp2.0\Docker2.runtimeconfig.dev.json
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\bin\Debug\netcoreapp2.0\Docker2.dll
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\bin\Debug\netcoreapp2.0\Docker2.pdb
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\obj\Debug\netcoreapp2.0\Docker2.csprojResolveAssemblyReference.cache
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\obj\Debug\netcoreapp2.0\Docker2.csproj.CoreCompileInputs.cache
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\obj\Debug\netcoreapp2.0\Docker2.AssemblyInfoInputs.cache
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\obj\Debug\netcoreapp2.0\Docker2.AssemblyInfo.cs
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\obj\Debug\netcoreapp2.0\Docker2.dll
+C:\Users\CZJAKAC\Documents\Visual Studio 2017\Projects\Docker2\Docker2\obj\Debug\netcoreapp2.0\Docker2.pdb
